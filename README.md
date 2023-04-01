@@ -5,7 +5,7 @@ credit reports, login details etc. making them valuable to cyber criminals for m
 Phishing is a strategy used by fraudsters to obtain sensitive information from people by pretending
 to be from recognized sources. In a phished email, the sender can convince you to provide personal
 information under false pretenses. This experimentation considers the detection of a phished email
-as a classification problem and this paper describes the use of machine learning algorithms to
+as a classification problem and describes the use of machine learning algorithms to
 classify emails as phished or ham. I have covered this in three parts, namely Naïve Bayes,
 general models and neural network models, in order to find the most effective method to overcome
 phishing attacks. We do this by calculating and comparing the accuracy of spam and ham
